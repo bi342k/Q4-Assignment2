@@ -1,0 +1,40 @@
+.result-color {
+    color: blue;
+}
+
+.div-align-left {
+    background-color: cadetblue;
+    text-align: left;
+    align-items: left;
+    justify-content: left;
+    margin: .25em;
+}
+span{
+    color: blue;
+    font-weight: 600;
+}
+td{
+    padding-left: .5em;
+}
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px black solid;
+    align-content: center;
+    align-items: flex-end;
+    
+}
+.bc1 {
+    background-color: aquamarine;
+}
+.bc2 {
+    background-color: red;
+}
+input {
+    background-color:aliceblue;
+}
+button{
+    background-color:aliceblue;
+}
+
+

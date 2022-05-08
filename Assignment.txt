@@ -1,0 +1,13 @@
+READ FUNCTIONS
+
+1.	balanceOf		-	done
+2.	decimals		-	done
+3.	symbols		-	done
+4.	name			-	done
+5.	totalSupply	-	done
+
+WRITE FUNCTIONS
+
+1.	approve		-	done
+2.	transfer		-	done
+3.	transferFrom	-	done
